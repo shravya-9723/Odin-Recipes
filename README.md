@@ -1,9 +1,4 @@
-# Odin-Recipes
-Perfect ✅ Here’s a **ready-to-copy version of your actual `README.md` file** — formatted exactly as it would appear on GitHub, with headings, emojis, and neat markdown styling.
 
-You can copy this whole block, create a file named **`README.md`** inside your **`odin-recipes`** folder, and paste it there 👇
-
----
 
 ```markdown
 # 🍽️ Odin Recipes
