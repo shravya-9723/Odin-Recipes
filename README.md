@@ -1,3 +1,5 @@
+## 🔗 Live Demo
+[Click here to view the project](https://shravya-9723.github.io/Odin-Recipes/)
 
 
 ```markdown
