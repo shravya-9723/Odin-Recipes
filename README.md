@@ -39,20 +39,6 @@ odin-recipes/
 
 ---
 
-## 🧭 How to View
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/odin-recipes.git
-````
-
-2. Move into the project folder:
-
-   ```bash
-   cd odin-recipes
-   ```
-3. Open `index.html` in your browser to explore the recipes.
-
 ---
 
 ## 🎯 Learning Goals
@@ -72,9 +58,6 @@ odin-recipes/
 
 ---
 
-## ✅ Project Status
-
-Completed ✔️ — Part of The Odin Project *Foundations* curriculum.
 
 ---
 
